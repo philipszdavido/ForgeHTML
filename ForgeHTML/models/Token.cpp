@@ -6,7 +6,5 @@
 //
 
 #include "Token.hpp"
-#include <iostream>
-#include "TokenType.h"
 
 Token::Token(const string& name, const TokenType& token): name(name), token(token) {};
