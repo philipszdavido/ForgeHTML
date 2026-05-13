@@ -19,13 +19,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		4F018BDE2E1FD7D900ED1A9D /* HTMLParser C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "HTMLParser C++"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F018BDE2E1FD7D900ED1A9D /* ForgeHTML */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ForgeHTML; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4F018BE02E1FD7D900ED1A9D /* HTMLParser C++ */ = {
+		4F018BE02E1FD7D900ED1A9D /* ForgeHTML */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "HTMLParser C++";
+			path = ForgeHTML;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -44,7 +44,7 @@
 		4F018BD52E1FD7D900ED1A9D = {
 			isa = PBXGroup;
 			children = (
-				4F018BE02E1FD7D900ED1A9D /* HTMLParser C++ */,
+				4F018BE02E1FD7D900ED1A9D /* ForgeHTML */,
 				4F018BDF2E1FD7D900ED1A9D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,7 +52,7 @@
 		4F018BDF2E1FD7D900ED1A9D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4F018BDE2E1FD7D900ED1A9D /* HTMLParser C++ */,
+				4F018BDE2E1FD7D900ED1A9D /* ForgeHTML */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -60,9 +60,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4F018BDD2E1FD7D900ED1A9D /* HTMLParser C++ */ = {
+		4F018BDD2E1FD7D900ED1A9D /* ForgeHTML */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4F018BE52E1FD7D900ED1A9D /* Build configuration list for PBXNativeTarget "HTMLParser C++" */;
+			buildConfigurationList = 4F018BE52E1FD7D900ED1A9D /* Build configuration list for PBXNativeTarget "ForgeHTML" */;
 			buildPhases = (
 				4F018BDA2E1FD7D900ED1A9D /* Sources */,
 				4F018BDB2E1FD7D900ED1A9D /* Frameworks */,
@@ -73,13 +73,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4F018BE02E1FD7D900ED1A9D /* HTMLParser C++ */,
+				4F018BE02E1FD7D900ED1A9D /* ForgeHTML */,
 			);
-			name = "HTMLParser C++";
+			name = ForgeHTML;
 			packageProductDependencies = (
 			);
 			productName = "HTMLParser C++";
-			productReference = 4F018BDE2E1FD7D900ED1A9D /* HTMLParser C++ */;
+			productReference = 4F018BDE2E1FD7D900ED1A9D /* ForgeHTML */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -97,7 +97,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4F018BD92E1FD7D900ED1A9D /* Build configuration list for PBXProject "HTMLParser C++" */;
+			buildConfigurationList = 4F018BD92E1FD7D900ED1A9D /* Build configuration list for PBXProject "ForgeHTML" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -111,7 +111,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4F018BDD2E1FD7D900ED1A9D /* HTMLParser C++ */,
+				4F018BDD2E1FD7D900ED1A9D /* ForgeHTML */,
 			);
 		};
 /* End PBXProject section */
@@ -270,7 +270,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4F018BD92E1FD7D900ED1A9D /* Build configuration list for PBXProject "HTMLParser C++" */ = {
+		4F018BD92E1FD7D900ED1A9D /* Build configuration list for PBXProject "ForgeHTML" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4F018BE32E1FD7D900ED1A9D /* Debug */,
@@ -279,7 +279,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4F018BE52E1FD7D900ED1A9D /* Build configuration list for PBXNativeTarget "HTMLParser C++" */ = {
+		4F018BE52E1FD7D900ED1A9D /* Build configuration list for PBXNativeTarget "ForgeHTML" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4F018BE62E1FD7D900ED1A9D /* Debug */,
