@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4F018BDD2E1FD7D900ED1A9D"
-               BuildableName = "HTMLParser C++"
-               BlueprintName = "HTMLParser C++"
+               BuildableName = "ForgeHTML"
+               BlueprintName = "ForgeHTML"
                ReferencedContainer = "container:ForgeHTML.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,8 +46,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4F018BDD2E1FD7D900ED1A9D"
-            BuildableName = "HTMLParser C++"
-            BlueprintName = "HTMLParser C++"
+            BuildableName = "ForgeHTML"
+            BlueprintName = "ForgeHTML"
             ReferencedContainer = "container:ForgeHTML.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -63,8 +63,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4F018BDD2E1FD7D900ED1A9D"
-            BuildableName = "HTMLParser C++"
-            BlueprintName = "HTMLParser C++"
+            BuildableName = "ForgeHTML"
+            BlueprintName = "ForgeHTML"
             ReferencedContainer = "container:ForgeHTML.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
